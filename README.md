@@ -1,6 +1,6 @@
 # UnderTokens
 ## What is the UT license
-### The UT license is for game software (such as Mario Odyssey or Call of Duty), which disallows the following
+### The UT license is for game software (such as Mario Odyssey or Call of Duty) or other software, which disallows the following
 * Modification
 * Distribution
 * Commercial use
